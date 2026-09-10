@@ -1,0 +1,12 @@
+{
+  "name": "uno",
+  "displayName": "Uno Platform Skills",
+  "version": "0.1.0",
+  "description": "Uno Platform / WinUI XAML development skills: MVUX, navigation, Material theming, Toolkit, SkiaSharp, art direction, motion polish, migration, build troubleshooting, and the scaffolding rules reference.",
+  "author": {
+    "name": "Matthew Mattei",
+    "url": "https://github.com/mtmattei"
+  },
+  "license": "MIT",
+  "keywords": ["uno-platform", "xaml", "winui", "dotnet", "mvux", "skiasharp"]
+}
