@@ -41,7 +41,7 @@
 ```
 
 ### References
-- Source: C:\Users\Platform006\uno.extensions\src\Uno.Extensions.Logging
+- Source: <uno.extensions>\src\Uno.Extensions.Logging
 
 ## Platforms Folder Structure
 
@@ -125,7 +125,7 @@ public class Program
 ```
 
 ### References
-- Example: C:\Users\Platform006\source\repos\UnoApp3\UnoApp3\Platforms
+- Example: <repo>\UnoApp3\UnoApp3\Platforms
 
 ## Platform-Specific Resource Access
 
@@ -290,7 +290,7 @@ internal static IHttpClientBuilder ConfigurePrimaryAndInnerHttpMessageHandler<TH
 - Better certificate validation
 
 ### References
-- Source: C:\Users\Platform006\uno.extensions\src\Uno.Extensions.Http
+- Source: <uno.extensions>\src\Uno.Extensions.Http
 
 ## WebAssembly-Specific Considerations
 

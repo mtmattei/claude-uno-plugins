@@ -74,7 +74,7 @@ public static IServiceCollection AddRefitClient<TInterface>(
 
 ### References
 - Official docs: https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Walkthrough/Refit.howto.html
-- Example: C:\Users\Platform006\source\repos\UnoApp3\UnoApp3\App.xaml.cs
+- Example: <repo>\UnoApp3\UnoApp3\App.xaml.cs
 
 ## Debug HTTP Handler
 
@@ -132,7 +132,7 @@ internal class DebugHttpHandler : DelegatingHandler
 ```
 
 ### References
-- Example: C:\Users\Platform006\source\repos\UnoApp3\UnoApp3\Services\Endpoints\DebugHandler.cs
+- Example: <repo>\UnoApp3\UnoApp3\Services\Endpoints\DebugHandler.cs
 
 ## LiteDB for Local Storage
 
@@ -236,7 +236,7 @@ services.AddSingleton(new DatabaseService(dbPath));
 ```
 
 ### References
-- Example: C:\Users\Platform006\source\repos\SmartNotes\SmartNotes\Services\DatabaseService.cs
+- Example: <repo>\SmartNotes\SmartNotes\Services\DatabaseService.cs
 
 ## Serialization Configuration
 
@@ -296,7 +296,7 @@ public class MyService
 
 ### References
 - Official docs: https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Configuration/ConfigurationOverview.html
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\App.xaml.cs
+- Example: <repo>\HockeyBarn\HockeyBarn\App.xaml.cs
 
 ## Error Handling Pattern
 

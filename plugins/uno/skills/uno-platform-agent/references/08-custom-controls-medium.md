@@ -124,8 +124,8 @@ public sealed partial class MainPage : Page
 - Dispose SKPaint objects when done
 
 ### References
-- Example: C:\Users\Platform006\source\repos\FibonacciSphere\FibonacciSphere\Controls\SphereCanvasElement.cs
-- Example: C:\Users\Platform006\source\repos\FibonacciSphere\FibonacciSphere\Rendering\SphereRenderer.cs
+- Example: <repo>\FibonacciSphere\FibonacciSphere\Controls\SphereCanvasElement.cs
+- Example: <repo>\FibonacciSphere\FibonacciSphere\Rendering\SphereRenderer.cs
 
 ## ItemsControl-Based Custom Control
 
@@ -275,7 +275,7 @@ public sealed partial class HorizontalCalendar : UserControl, INotifyPropertyCha
 - ItemsRepeater for performance
 
 ### References
-- Example: C:\Users\Platform006\source\repos\HorizontalCalendar\HorizontalCalendar\Controls\HorizontalCalendar.xaml.cs
+- Example: <repo>\HorizontalCalendar\HorizontalCalendar\Controls\HorizontalCalendar.xaml.cs
 
 ## Lottie Animations
 
@@ -318,7 +318,7 @@ xmlns:winui="using:Microsoft.UI.Xaml.Controls.AnimatedVisuals"
 
 ### References
 - Official docs: https://platform.uno/docs/articles/features/Lottie.html
-- Example: C:\Users\Platform006\source\repos\UnoApp3\UnoApp3\Shell.xaml
+- Example: <repo>\UnoApp3\UnoApp3\Shell.xaml
 
 ## Responsive Image Display
 

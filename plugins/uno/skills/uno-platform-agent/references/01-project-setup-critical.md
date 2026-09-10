@@ -33,7 +33,7 @@ ProjectName/
 
 ### References
 - Official docs: https://platform.uno/docs/articles/migrating-to-single-project.html
-- Example: C:\Users\Platform006\source\repos\UnoApp3\UnoApp3\UnoApp3.csproj
+- Example: <repo>\UnoApp3\UnoApp3\UnoApp3.csproj
 
 ## UnoFeatures Configuration
 
@@ -80,7 +80,7 @@ ProjectName/
 
 ### References
 - Official docs: https://platform.uno/docs/articles/features/using-the-uno-sdk.html
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\HockeyBarn.csproj
+- Example: <repo>\HockeyBarn\HockeyBarn\HockeyBarn.csproj
 
 ## GlobalUsings Pattern
 
@@ -104,4 +104,4 @@ global using ApplicationExecutionState = Windows.ApplicationModel.Activation.App
 - Never include platform-specific usings here
 
 ### References
-- Example: C:\Users\Platform006\source\repos\UnoApp3\UnoApp3\GlobalUsings.cs
+- Example: <repo>\UnoApp3\UnoApp3\GlobalUsings.cs

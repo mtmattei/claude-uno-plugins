@@ -52,7 +52,7 @@ private static void RegisterRoutes(IViewRegistry views, IRouteRegistry routes)
 
 ### References
 - Official docs: https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Navigation/Walkthrough/RegisterRoutes.html
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\App.xaml.cs
+- Example: <repo>\HockeyBarn\HockeyBarn\App.xaml.cs
 
 ## Shell Pattern with Frame
 
@@ -96,7 +96,7 @@ public sealed partial class Shell : UserControl
 ```
 
 ### References
-- Example: C:\Users\Platform006\source\repos\UnoApp3\UnoApp3\Shell.xaml
+- Example: <repo>\UnoApp3\UnoApp3\Shell.xaml
 
 ## Navigation via INavigator (Code-Behind)
 
@@ -142,7 +142,7 @@ public partial class MainViewModel : ObservableObject
 - `NavigateRouteAsync(sender, "RouteName")` - Navigate by route name
 
 ### References
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\Presentation\MainViewModel.cs
+- Example: <repo>\HockeyBarn\HockeyBarn\Presentation\MainViewModel.cs
 - Official docs: https://platform.uno/docs/articles/external/uno.chefs/doc/navigation/NavigationCodeBehind.html
 
 ## XAML-Based Navigation (Preferred)
@@ -222,7 +222,7 @@ views.Register(
 ```
 
 ### References
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\Presentation
+- Example: <repo>\HockeyBarn\HockeyBarn\Presentation
 - Official docs: https://platform.uno/docs/articles/external/uno.chefs/doc/navigation/NavigationCodeBehind.html
 
 ## TabBar Navigation Pattern

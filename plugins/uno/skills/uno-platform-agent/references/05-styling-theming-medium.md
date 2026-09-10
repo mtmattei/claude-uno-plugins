@@ -41,7 +41,7 @@
 
 ### References
 - Official docs: https://platform.uno/docs/articles/external/uno.toolkit.ui/doc/material-getting-started.html
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\App.xaml
+- Example: <repo>\HockeyBarn\HockeyBarn\App.xaml
 
 ## Color Palette Override
 
@@ -100,7 +100,7 @@
 
 ### References
 - Material Design 3 Theme Builder: https://m3.material.io/theme-builder
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\Styles\ColorPaletteOverride.xaml
+- Example: <repo>\HockeyBarn\HockeyBarn\Styles\ColorPaletteOverride.xaml
 
 ## App-Level Style Resources
 
@@ -171,7 +171,7 @@
 - Reference ThemeResource colors
 
 ### References
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\App.xaml
+- Example: <repo>\HockeyBarn\HockeyBarn\App.xaml
 
 ## Elevation with ThemeShadow
 
@@ -205,7 +205,7 @@
 - Performance optimized
 
 ### References
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\Presentation\WelcomePage.xaml
+- Example: <repo>\HockeyBarn\HockeyBarn\Presentation\WelcomePage.xaml
 
 ## Custom Value Converters
 
@@ -254,7 +254,7 @@ public class SkillLevelColorConverter : IValueConverter
 - Access Application.Current.Resources for semantic colors
 
 ### References
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\Converters\ValueConverters.cs
+- Example: <repo>\HockeyBarn\HockeyBarn\Converters\ValueConverters.cs
 
 ## Typography Styles
 
@@ -351,4 +351,4 @@ public class SkillLevelColorConverter : IValueConverter
 
 ### References
 - Uno Toolkit docs: AutoLayout control
-- Example: C:\Users\Platform006\source\repos\FibonacciSphere\FibonacciSphere\MainPage.xaml
+- Example: <repo>\FibonacciSphere\FibonacciSphere\MainPage.xaml

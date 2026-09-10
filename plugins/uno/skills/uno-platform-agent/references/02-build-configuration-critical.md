@@ -44,8 +44,8 @@
 - Developers can disable specific platforms via DebugPlatforms.props
 
 ### References
-- Source: C:\Users\Platform006\uno.extensions\Directory.Build.props
-- Source: C:\Users\Platform006\uno.extensions\src\tfms-ui-winui.props
+- Source: <uno.extensions>\Directory.Build.props
+- Source: <uno.extensions>\src\tfms-ui-winui.props
 
 ## Central Package Management
 
@@ -93,8 +93,8 @@
 - Transitive pinning prevents hidden conflicts
 
 ### References
-- Source: C:\Users\Platform006\uno.extensions\Directory.Packages.props
-- Source: C:\Users\Platform006\uno.extensions\src\Directory.Build.props
+- Source: <uno.extensions>\Directory.Packages.props
+- Source: <uno.extensions>\src\Directory.Build.props
 
 ## Build Output Customization
 
@@ -114,7 +114,7 @@
 - Cleaner build output
 
 ### References
-- Source: C:\Users\Platform006\uno.extensions\src\Directory.Build.props
+- Source: <uno.extensions>\src\Directory.Build.props
 
 ## Build Performance Optimizations
 
@@ -143,7 +143,7 @@
 - Automatically resolves assembly version conflicts
 
 ### References
-- Source: C:\Users\Platform006\uno.extensions\src\Directory.Build.props
+- Source: <uno.extensions>\src\Directory.Build.props
 
 ## Platform Detection Pattern
 
@@ -172,4 +172,4 @@
 - Define platform flags once, reuse throughout
 
 ### References
-- Source: C:\Users\Platform006\uno.extensions\src\Directory.Build.props
+- Source: <uno.extensions>\src\Directory.Build.props

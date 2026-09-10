@@ -70,8 +70,8 @@ public partial class MainViewModel : ObservableObject
 ```
 
 ### References
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\Presentation\MainViewModel.cs
-- Example: C:\Users\Platform006\source\repos\FibonacciSphere\FibonacciSphere\ViewModels\SphereViewModel.cs
+- Example: <repo>\HockeyBarn\HockeyBarn\Presentation\MainViewModel.cs
+- Example: <repo>\FibonacciSphere\FibonacciSphere\ViewModels\SphereViewModel.cs
 
 ## MVUX Reactive Pattern
 
@@ -147,7 +147,7 @@ public async ValueTask MyMethod() { }
 ### References
 - Official docs: https://platform.uno/docs/articles/external/uno.extensions/doc/Reference/Reactive/Architecture.html
 - Official docs: https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Mvux/Walkthrough/ListFeed.howto.html
-- Example: C:\Users\Platform006\source\repos\XamlBindingBlogSample (uses MVUX)
+- Example: <repo>\XamlBindingBlogSample (uses MVUX)
 
 ## Data Binding Conventions
 
@@ -191,7 +191,7 @@ public string FormattedPrice => $"${Price:F2}";
 ```
 
 ### References
-- Example: C:\Users\Platform006\source\repos\FibonacciSphere\FibonacciSphere\MainPage.xaml
+- Example: <repo>\FibonacciSphere\FibonacciSphere\MainPage.xaml
 - Official docs: https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Mvux/Walkthrough/Commands.howto.html
 
 ## Dependency Injection Pattern
@@ -254,5 +254,5 @@ public partial class MainViewModel : ObservableObject
 ```
 
 ### References
-- Example: C:\Users\Platform006\source\repos\HockeyBarn\HockeyBarn\App.xaml.cs
-- Source: C:\Users\Platform006\uno.extensions\src\Uno.Extensions.Hosting\HostBuilderExtensions.cs
+- Example: <repo>\HockeyBarn\HockeyBarn\App.xaml.cs
+- Source: <uno.extensions>\src\Uno.Extensions.Hosting\HostBuilderExtensions.cs
